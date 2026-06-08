@@ -24,7 +24,7 @@ while True:
                 print(f"{i}. {task}")
 
     elif choice == "3":
-        print("Goodbye!")
+        print("Exiting the program!")
         break
 
     else:
